@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  margin-bottom: 100px;
+  font-family: 'Varela Round', sans-serif;
+}
+.text-center {
+  text-align: center;
+}
+.container-1 {
+  max-width: 900px;
+  margin: 50px auto;
+  font:'Varela Round', sans-serif;
+}
