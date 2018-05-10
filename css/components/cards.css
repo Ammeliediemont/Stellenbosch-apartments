@@ -111,6 +111,7 @@
   position: absolute;
   top: 10px;
   left: 10px;
+  font-family: font-family: 'Prata', serif;
 }
 .card-description h2{
   transition: all 0.4s ease-in;
@@ -121,6 +122,8 @@
   left: 10px;
   font-size: 19px;
   transition: all 0.3s ease-in;
+  font-family: 'Barlow Condensed', sans-serif;
+
 }
 
 .card-user {
@@ -129,7 +132,10 @@
   right: 10px;
 }
 
+.message-body {
+  font-family: 'Source Sans Pro', sans-serif;
 
+}
 
 
 
